@@ -2,7 +2,7 @@
 layout: page
 permalink: /photos/
 title: photos
-description: <br>Random collection of some places I've been, things I've seen. <br>
+description: <br>some places I've been, things I've seen. <br>
 images:
   - image_path: /assets/img/gallery/CWG_Uummannaq_2015.jpg
     title: Uummannaq, Greenland (circa May 2015)

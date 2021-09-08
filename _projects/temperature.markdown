@@ -14,7 +14,7 @@ importance:
 
 The evolution of global temperatures since the last Glacial Maximum has long fascinated climate scholars and the public alike.  During this period, the Earth rapidly transitioned out of a state where ice sheets covered vast portions of the Northern Hemisphere, sea levels were ~130 m lower than present, and greenhouse gases were below half that of modern values. It thus stands that constraining the evolution of global surface temperatures during this time interval is critical for understanding the mechanisms and timescales of large scale climate change. While climate models and proxy data have independently enabled study of this key period, they have yielded disparate conclusions on temperature trends, magnitudes, and phasing.  Such discrepancies hinder our ability to contextualize modern warming trends and constrain future global climate responses to anthropogenic forcing such as greenhouse gas emissions.
 
-Together with colleagues from the Universities of Arizona, Michigan, Washington, and the National Center for Atmospheric Research, we are pioneering the use of paleoclimate data assimilation to optimally combine state-of-the-art global climate models with globally compiled marine geochemical proxy records to reconstruct global surface temperatures across the last 24,000 years. Our exciting results are currently *under review* - stay tuned for more.  
+Together with colleagues from the Universities of Arizona, Michigan, Washington, and the National Center for Atmospheric Research, we are pioneering the use of paleoclimate data assimilation to optimally combine state-of-the-art global climate models with globally compiled marine geochemical proxy records to reconstruct global surface temperatures across the last 24,000 years. Our exciting results are currently *in press* - stay tuned for more.  
 
 Please see our non-peer reviewed pre-print, available <i>[here](https://eartharxiv.org/repository/view/2219/){:target="\_blank"}</i>.
 
@@ -26,10 +26,10 @@ Please see our non-peer reviewed pre-print, available <i>[here](https://eartharx
     </div>
 </div>
 <div class="caption">
-    Global mean temperature evolution of the Last Glacial Maximum to present.  See Figure 2 of Osman et al. (<it>in review</it>).
+    Global mean temperature evolution of the Last Glacial Maximum to present.  See Figure 2 of Osman et al. (<it>accepted</it>).
 </div>
 
 ***
 
 **references**
-* Osman, M. et al.: Globally resolved surface temperatures since the Last Glacial Maximum. *in review*.
+* Osman, M. et al.: Globally resolved surface temperatures since the Last Glacial Maximum. *accepted in Nature*.

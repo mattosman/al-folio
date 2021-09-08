@@ -14,18 +14,18 @@ importance:
 
 Ice cores provide high resolution insights into past climatic conditions, making them uniquely well-suited for reconstructing rapid climate change at high latitudes. Despite this, few records currently exist from coastal Greenlandic ice caps due to their remote nature, limiting our long-term understanding of past maritime and coastal climate variability across the Arctic. Together with colleagues at the Woods Hole Oceanographic Institution, University of Washington, and the Desert Research Institute, we have extracted and developed the *first* Common Era-length ice core climate record from a remote western Greenland ice cap.
 
-Through application of a unique, glacier-flow inversion methodology paired to high-precision geochemical measurements, we are using this record to reconstruct past changes in ice cap accumulation with a high degree of accuracy.  Results are currently *in revision* - stay tuned!
+Through application of a unique, glacier-flow inversion methodology paired to high-precision geochemical measurements, we are using this record to reconstruct past changes in ice cap accumulation with a high degree of accuracy.  Results are currently *in press* - stay tuned!
 
 <!-- First, we find strong evidence of abrupt and previously unknown hydroclimatic changes in west Greenland during the last millennium.  These changes illuminate both an enhanced sensitivity in coastal Greenlandic ice caps to past climatic forcing, while differing significantly from coeval high-elevation, interior Greenland ice core records that have previously been invoked in the interpretation of coastal climate conditions.  Further, we demonstrate a robust positive association between coastal west Greenland glacier growth and regional temperature variability during the last millennium, contrasting the strongly negative relationship observed across most Greenland glaciers today and predicted under future warming scenarios.   -->
 
-<!-- <div class="row justify-content-sm-center">
+<div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/projects/NU_web.png' | relative_url }}" alt="" title="NU ice core inversion"/>
     </div>
 </div>
 <div class="caption">
-      Inverse solution showing optimal mass balance ice core reconstruction of the NU ice cap. Adapted from Figure 3 of Osman et al. (in revision).
-</div> -->
+      Inverse solution showing optimal mass balance ice core reconstruction of the NU ice cap. Adapted from Figure 3 of Osman et al. (accepted).
+</div>
 
 ***
 
@@ -55,12 +55,12 @@ You can read more about this high-profile work <i><a href="https://www.nytimes.c
 
 An ongoing interest is the reconstruction of Arctic sea ice variability.  This is an extremely challenging problem, for which little knowledge exists prior to ca. 20th century observations.  
 
-Recent work by Ali Criscitiello (Canadian Ice Core Laboratory, U. Alberta), currently *in revision*, is pioneering the use of ice core geochemical records to understand Canadian Arctic polynya variability.  
+Recent work by Ali Criscitiello (Canadian Ice Core Laboratory, U. Alberta), recently *accepted* for publication, is pioneering the use of ice core geochemical records to understand Canadian Arctic polynya variability.  
 
 ***
 
 **References**
 
-* Criscitiello et al.: Marine aerosol records of Arctic sea-ice and polynya variability from new Ellesmere and Devon Island firn cores. *in revision*.
-* Osman, M. et al.: Enhanced sensitivity of west Greenland ice caps to last millennium climate change. *in revision*.
+* Criscitiello et al.: Marine aerosol records of Arctic sea-ice and polynya variability from new Ellesmere and Devon Island firn cores. *accepted in JGR*.
+* Osman, M. et al.: Enhanced sensitivity of west Greenland ice caps to last millennium climate change. *accepted in Nature Geoscience*.
 * Trusel, L. D., Das, S. B., Osman, M., et al.: Nonlinear rise in Greenland runoff in response to post-industrial Arctic Warming, *Nature*, 564, 104–108, 2018.
