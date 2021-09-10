@@ -20,6 +20,12 @@ last_updated: # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
 # -----------------------------------------------------------------------------
+# RSS Feed
+# -----------------------------------------------------------------------------
+# will use title and url fields
+# Take a look to https://github.com/jekyll/jekyll-feed for more customization
+
+# -----------------------------------------------------------------------------
 # Layout
 # -----------------------------------------------------------------------------
 
@@ -56,6 +62,7 @@ blogger_url: # your blogger URL
 work_url: # work page URL
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
+dblp_url: # your DBLP profile url
 
 contact_note: # Email's usually the best way to contact me!
 
@@ -130,6 +137,7 @@ keep_files:
 plugins:
   - jekyll-email-protect
   - jekyll-github-metadata
+  - jekyll-feed
   - jekyll-paginate-v2
   - jekyll/scholar
   - jemoji
@@ -156,6 +164,7 @@ scholar:
 
   replace_strings: true
   join_strings: true
+  bibtex_filters:
 
   details_dir: bibliography
   details_layout: bibtex.html
@@ -194,7 +203,7 @@ jquery:
   version: "3.5.1"
   integrity: "sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg=="
 mathjax:
-  version: "3.1.2"
+  version: "3.2.0"
 mansory:
   version: "4.2.2"
   integrity: "sha256-Nn1q/fx0H7SNLZMQ5Hw5JLaTRZp0yILA/FRexe19VdI="
@@ -206,3 +215,6 @@ mdb:
 popper:
   version: "2.4.4"
   integrity: "sha512-eUQ9hGdLjBjY3F41CScH3UX+4JDSI9zXeroz7hJ+RteoCaY+GP/LDoM8AO+Pt+DRFw3nXqsjh9Zsts8hnYv8/A=="
+medium_zoom:
+  version: "1.0.6"
+  integrity: "sha256-EdPgYcPk/IIrw7FYeuJQexva49pVRZNmt3LculEr7zM="

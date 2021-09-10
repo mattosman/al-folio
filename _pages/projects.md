@@ -6,6 +6,7 @@ description: <i><br>"When we try to pick out anything by itself, we find it hitc
 nav: true
 ---
 
+<<<<<<< HEAD
 ***
 
 <div class="projects grid">
@@ -15,6 +16,20 @@ nav: true
   <div class="grid-item">
     {% if project.redirect %}
     <a href="{{ project.redirect }}" target="_blank">
+=======
+  {% else %}
+  <!-- Display projects without categories -->
+    {% assign sorted_projects = site.projects | sort: "importance" %}
+    <!-- Generate cards for each project -->
+    {% if page.horizontal %}
+      <div class="container">
+        <div class="row row-cols-2">
+        {% for project in sorted_projects %}
+          {% include projects_horizontal.html %}
+        {% endfor %}
+        </div>
+      </div>
+>>>>>>> f4c01acac710f8b4d9dea317d12b212a406552d2
     {% else %}
     <a href="{{ project.url | relative_url }}">
     {% endif %}
