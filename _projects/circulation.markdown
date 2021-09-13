@@ -12,12 +12,12 @@ importance:
 
 ## Last millennium North Atlantic jet stream changes
 
-Variations in the North Atlantic jet stream -- currents of strong prevailing westerly winds situated over the mid-latitudes -- play an important role in modulating North American and European weather, economics, ecosystems, intercontinental transport, and commerce. A number of studies have suggested increased variability and (or) shifts in the position and intensity of the North Atlantic jet stream across recent decades, possibly due to anthropogenic greenhouse gas-induced temperature increases. However, discerning the long-term significance of these changes has been challenged by a lack of long-term jet-stream observations, which in general are not available prior to the 20th century.  This lack of direct observations is further challenged by the fact that climate "proxies" found at Earth's surface are most often *not* explicitly sensitive to high-altitude atmospheric changes.
+Variations in the North Atlantic jet stream -- currents of strong prevailing westerly winds situated over the mid-latitudes -- play an important role in modulating North American and European weather, economics, ecosystems, intercontinental transport, and commerce. A number of studies have suggested increased variability and (or) shifts in the position and intensity of the North Atlantic jet stream across recent decades, possibly due to anthropogenic greenhouse gas-induced temperature increases. However, discerning the long-term significance of these changes has been challenged by a lack of long-term jet-stream observations, which in general are not available prior to the 20th century.  This lack of direct observations is further challenged by the fact that climate "proxies" found at Earth's surface are most often *not* overly sensitive to high-altitude winds.
 
-Myself, along with colleagues at the University of Hawaii, Desert Research Institute, and Woods Hole Oceanographic Institution, are attempting to address this limitation. By using a unique compilation of *many* high-elevation ice core records extracted from across the Greenland Ice Sheet, as well as a new ensemble of last millennium climate model simulations, we're developing the first ever millennium-length, model-validated statistical reconstruction of the North Atlantic jet stream.  Our results are being used to constrain the following questions:
+Myself, along with colleagues at the University of Hawaii, Desert Research Institute, and Woods Hole Oceanographic Institution, have attempted to address this limitation. By using a unique compilation of *many* high-elevation ice core records extracted from across the Greenland Ice Sheet, as well as a new ensemble of last millennium climate model simulations, we've developed the first ever millennium-length, model-validated statistical reconstruction of the North Atlantic jet stream.  Our results are being used to constrain the following questions:
 
 *Has the North Atlantic jet changed during periods of natural warming and cooling during the last millennium?* <br>
-*How do these changes compare to modeled future changes under "business-as-usual" scenarios?*
+*How do these changes compare to modeled future changes under future high greenhouse gas emissions scenarios?*
 
 <!-- While our results are currently embargoed under peer review, here's a sneak preview of our reconstruction: -->
 
@@ -43,4 +43,4 @@ Myself, along with colleagues at the University of Hawaii, Desert Research Insti
 
 **References**
 
-* Osman, M. et al.: A thirteen-century context for North Atlantic jet stream projections. *in revision*.
+* Osman, M. et al.: North Atlantic jet stream projections in the context of the past 1,250 years. *PNAS*, 2021.
