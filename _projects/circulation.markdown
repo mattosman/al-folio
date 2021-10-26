@@ -43,4 +43,4 @@ Myself, along with colleagues at the University of Hawaii, Desert Research Insti
 
 **References**
 
-* Osman, M. et al.: North Atlantic jet stream projections in the context of the past 1,250 years. *PNAS*, 2021.
+* Osman, M. et al.: North Atlantic jet stream projections in the context of the past 1,250 years. *PNAS*, 118(38), e2104105118, 2021.

@@ -12,9 +12,9 @@ importance:
 
 ## Coastal west Greenland ice cap mass balance
 
-Ice cores provide high resolution insights into past climatic conditions, making them uniquely well-suited for reconstructing rapid climate change at high latitudes. Despite this, few records currently exist from coastal Greenlandic ice caps due to their remote nature, limiting our long-term understanding of past maritime and coastal climate variability across the Arctic. Together with colleagues at the Woods Hole Oceanographic Institution, University of Washington, and the Desert Research Institute, we have extracted and developed the *first* Common Era-length ice core climate record from a remote western Greenland ice cap.
+Ice cores provide high resolution insights into past climatic conditions, making them uniquely well-suited for reconstructing rapid climate change at high latitudes. Despite this, few records currently exist from coastal Greenlandic ice caps due to their remote nature, limiting our long-term understanding of past maritime and coastal climate variability across the Arctic. Together with colleagues at the Woods Hole Oceanographic Institution, University of Washington, and the Desert Research Institute, we have extracted and developed the *first* Common Era-length ice core climate record from the western Greenland seaboard.
 
-Through application of a unique, glacier-flow inversion methodology paired to high-precision geochemical measurements, we are using this record to reconstruct past changes in ice cap accumulation with a high degree of accuracy.  Results are currently *in press* - stay tuned!
+<!-- Through application of a unique, glacier-flow inversion methodology paired to high-precision geochemical measurements, we used this record to reconstruct past changes in ice cap accumulation with a high degree of accuracy. -->
 
 <!-- First, we find strong evidence of abrupt and previously unknown hydroclimatic changes in west Greenland during the last millennium.  These changes illuminate both an enhanced sensitivity in coastal Greenlandic ice caps to past climatic forcing, while differing significantly from coeval high-elevation, interior Greenland ice core records that have previously been invoked in the interpretation of coastal climate conditions.  Further, we demonstrate a robust positive association between coastal west Greenland glacier growth and regional temperature variability during the last millennium, contrasting the strongly negative relationship observed across most Greenland glaciers today and predicted under future warming scenarios.   -->
 
@@ -24,7 +24,7 @@ Through application of a unique, glacier-flow inversion methodology paired to hi
     </div>
 </div>
 <div class="caption">
-      Inverse solution showing optimal mass balance ice core reconstruction of the NU ice cap. Adapted from Figure 3 of Osman et al. (accepted).
+      Inverse solution showing optimal mass balance ice core reconstruction of the NU ice cap. Adapted from Figure 3 of Osman et al. (2021).
 </div>
 
 ***
@@ -55,12 +55,12 @@ You can read more about this high-profile work <i><a href="https://www.nytimes.c
 
 An ongoing interest is the reconstruction of Arctic sea ice variability.  This is an extremely challenging problem, for which little knowledge exists prior to ca. 20th century observations.  
 
-Recent work by Ali Criscitiello (Canadian Ice Core Laboratory, U. Alberta), recently *accepted* for publication, is pioneering the use of ice core geochemical records to understand Canadian Arctic polynya variability.  
+Recent work by Ali Criscitiello (Canadian Ice Core Laboratory, U. Alberta), recently published in *JGR Oceans*, is pioneering the use of ice core geochemical records to understand Canadian Arctic polynya variability.  
 
 ***
 
 **References**
 
-* Criscitiello et al.: Marine aerosol records of Arctic sea-ice and polynya variability from new Ellesmere and Devon Island firn cores. *accepted in JGR*.
-* Osman, M. et al.: Enhanced sensitivity of west Greenland ice caps to last millennium climate change. *accepted in Nature Geoscience*.
+* Criscitiello et al.: Marine aerosol records of Arctic sea-ice and polynya variability from new Ellesmere and Devon Island firn cores. *JGR Oceans*, 126, e2021JC017205, 2021.
+* Osman, M. et al.: Enhanced sensitivity of west Greenland ice caps to last millennium climate change. *Nature Geoscience*, 14, 756–761, 2021.
 * Trusel, L. D., Das, S. B., Osman, M., et al.: Nonlinear rise in Greenland runoff in response to post-industrial Arctic Warming, *Nature*, 564, 104–108, 2018.
