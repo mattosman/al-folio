@@ -30,7 +30,7 @@ Myself, along with colleagues at the University of Hawaii, Desert Research Insti
     </div>
 </div>
 <div class="caption">
-    Reconstruction of the North Atlantic jet stream (via zonal mean zonal winds at 850 hPa) from Greenland ice cores.  From Osman et al. (<i>in revision at PNAS</i>).
+    Reconstruction of the North Atlantic jet stream (via zonal mean zonal winds at 850 hPa) from Greenland ice cores.  From Osman et al. (2021).
 </div>
 
 ***
