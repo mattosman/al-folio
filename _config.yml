@@ -101,7 +101,7 @@ collections:
     output: true
     permalink: /photos/:path/
 
-news_limit: 3
+news_limit: 4
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
