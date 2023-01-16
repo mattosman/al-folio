@@ -14,13 +14,13 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a Postdoctoral Researcher at the [Climate Systems Center](https://www.climatesystemscenter.org/){:target="\_blank"}, <b>[University of Arizona](https://www.geo.arizona.edu/~jesst/){:target="\_blank"}</b>.  In January 2023 I will be starting as an Assistant Professor in the [Department of Geography](https://www.geog.cam.ac.uk/){:target="\_blank"} at the <b>[University of Cambridge](https://www.cam.ac.uk/){:target="\_blank"}</b>.
+I am an Assistant Professor in the [Department of Geography](https://www.geog.cam.ac.uk/){:target="\_blank"} at the <b>[University of Cambridge](https://www.cam.ac.uk/){:target="\_blank"}</b>.
 
 My work seeks to understand how Earth’s climate changes across annual- to centennial-timescales.  I am fascinated by the intersection of climate across human and ecologic dimensions, during the past and into the present. <i>I study the past because I am concerned about the future</i>.  
 
 A major theme of my work is applying new quantitative techniques to understand climate using naturally derived "proxies", for example from ice and sediments.  I aim for a holistic approach by combining proxies with modern observations, physical models, and global climate simulations.
 
-Previously, I received my PhD in climate science at the <b>[Massachusetts Institute of Technology (MIT)](https://eapsweb.mit.edu/){:target="\_blank"}</b> and <b>[Woods Hole Oceanographic Institution](https://www.whoi.edu/){:target="\_blank"}</b>.
+Previously, I received my PhD in climate science at the <b>[Massachusetts Institute of Technology (MIT)](https://eapsweb.mit.edu/){:target="\_blank"}</b> and <b>[Woods Hole Oceanographic Institution](https://www.whoi.edu/){:target="\_blank"}</b>, and worked as a researcher at the <b>[University of Arizona](https://www.climatesystemscenter.org/){:target="\_blank"}</b>. 
 
 ***
 
